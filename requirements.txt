@@ -1,0 +1,7 @@
+Wikipedia-API 
+chromadb 
+langchain 
+langchain_community 
+transformers 
+torch 
+accelerate
